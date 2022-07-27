@@ -2,7 +2,7 @@
 The project is done by using [Pyppeteer.](https://github.com/pyppeteer/pyppeteer)
 
 ## Task
-- request to load the page located at [this address.](https://shop.mango.com/bg-en/women/skirts-midi/midi-satin-skirt_17042020.html?c=99)
+- request to load the page located at [this address](https://shop.mango.com/bg-en/women/skirts-midi/midi-satin-skirt_17042020.html?c=99)
 
 - parse of the html
 
