@@ -6,7 +6,7 @@ Python version = 3.10.5
 ## Task
 - Request to load the page located at [this address.](https://shop.mango.com/bg-en/women/skirts-midi/midi-satin-skirt_17042020.html?c=99)
 
-- Parse of the html.
+- Parse the html.
 
 - Collect the data (name, price, selected default color and size).
 
