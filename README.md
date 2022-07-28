@@ -25,6 +25,11 @@ The project is done by using [Pyppeteer.](https://github.com/pyppeteer/pyppeteer
 ## requirements.txt
 Run `pip install -r requirements.txt` to install the required packages.
 
+## EDITED-Application-task.py
+- Open terminal window in the project's directory. 
+- Run `python EDITED-Application-task.py`
+- After completition 'data.json' file will appear in project's directory.
+
 
 ## Flow chart
 
