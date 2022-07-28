@@ -1,5 +1,6 @@
 # EDITED-Application-task
 The project is done by using [Pyppeteer.](https://github.com/pyppeteer/pyppeteer)
+Python version = 3.10.5
 
 ## Task
 - request to load the page located at [this address](https://shop.mango.com/bg-en/women/skirts-midi/midi-satin-skirt_17042020.html?c=99)
