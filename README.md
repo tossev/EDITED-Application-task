@@ -33,7 +33,7 @@ Run `pip install -r requirements.txt` to install the required packages.
 - After completition 'data.json' file will appear in project's directory.
 
 
-## Flow chart
+## Flow chart of the programm
 
 ```mermaid
 graph TD
