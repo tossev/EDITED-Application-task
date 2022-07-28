@@ -1,5 +1,6 @@
 # EDITED-Application-task
 The project is done by using [Pyppeteer.](https://github.com/pyppeteer/pyppeteer)
+
 Python version = 3.10.5
 
 ## Task
